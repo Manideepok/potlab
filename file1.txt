@@ -1,3 +1,6 @@
 Pot labs filw first
 
+<<<<<<< HEAD
  i am the developer fastest
+=======
+i am the first developer
